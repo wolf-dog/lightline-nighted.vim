@@ -12,9 +12,7 @@ Vim colorscheme [nighted.vim](https://github.com/wolf-dog/nighted.vim) is also a
 
 Copy lightline-nighted.vim to your .vim/plugin directory, then put into your .vimrc:
 
-  let g:lightline = {
-  \   'colorscheme': 'nighted'
-  \ }
+    let g:lightline = { 'colorscheme': 'nighted' }
 
 ## Licence
 
