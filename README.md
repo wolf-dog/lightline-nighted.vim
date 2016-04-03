@@ -6,7 +6,7 @@ Vim colorscheme [nighted.vim](https://github.com/wolf-dog/nighted.vim) is also a
 
 ## Screenshot
 
-![](http://lupus.mydns.jp/assets/media/lightline-nighted_vim.png)
+![](http://to-mega-therion.net/assets/media/lightline-nighted_vim.png)
 
 ## Installation
 
